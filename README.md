@@ -47,6 +47,12 @@
 
 > Enhances learning and accessibility through gamified gesture recognition
 
+## 🎬 DEMONSTRATION VIDEO
+> ### Download Demo Video here. 
+
+https://github.com/whisperinbinary/SignVise/raw/refs/heads/master/demo/Project%20SignVise%20Demo%20Video.mp4
+
+
 ## 📌 NOTES
 
 > This repository showcases the concept, architecture, and workflow of the project.
