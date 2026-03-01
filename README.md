@@ -51,6 +51,9 @@
 > ### Download Demo Video here. 
 
 https://github.com/whisperinbinary/SignVise/raw/refs/heads/master/demo/Project%20SignVise%20Demo%20Video.mp4
+
+## 💼 LINKEDIN POST
+> https://www.linkedin.com/feed/update/urn:li:activity:7428827759898140672/
 ---
 ## 📌 NOTES
 
