@@ -86,12 +86,6 @@ graph TD
 
 ---
 
-## 📌 **Notes**
-- This repository showcases the **concept, architecture, and workflow** of the project.  
-- Any problem in running the deployed application might be an interpretation error by the user and hence must not be inferred as a development error.
-
----
-
 ## 👥 **Contributors**
 
 | Name | Role | Socials |
@@ -115,6 +109,10 @@ graph TD
   <img src="docs/Screenshot%20(5).png" width="250" style="margin: 10px; border-radius: 10px;"/>
   <img src="docs/Demo.jpeg" width="250" style="margin: 10px; border-radius: 10px;"/>
 </p>
+
+---
+
+> **⚠️ Disclaimer:** This repository hosts the deployed application for demo purposes. Please note that any errors occurring due to incorrect user implementation or environmental misconfigurations must not be inferred as a development error.
 
 ---
 
