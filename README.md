@@ -11,7 +11,7 @@
 
 <hr/>
 
-## 🚨 **Problem Statement**
+## **Problem Statement**
 - **Inaccessibility in Crises**: Emergency situations often prevent manual device interaction.
 - **Lack of Automation**: Existing systems lack automated gesture‑based detection.
 - **Delayed Response Times**: Absence of real‑time location and visual context delays response.
@@ -19,7 +19,7 @@
 
 ---
 
-## 💡 **Description & Solution**
+## **Description & Solution**
 
 **SignVise** tackles these challenges by transforming your device's camera into a powerful, hands-free interface.
 
@@ -33,29 +33,29 @@
 
 ---
 
-## ⚙️ **Workflow Architecture**
+## **Workflow Architecture**
 
 Here is a visual representation of how **SignVise** processes inputs and delivers actionable outputs:
 
 ```mermaid
 graph TD
-    A[📷 Webcam Frame] --> B[🤖 Mediapipe Hand Tracking]
-    B --> C{🧠 OpenCV Processing}
+    A[Webcam Frame] --> B[Mediapipe Hand Tracking]
+    B --> C{OpenCV Processing}
     
-    C -->|Sustained Gesture| D[🚨 Emergency SOS Module]
-    D --> E[📍 Fetch Geolocation]
-    E --> F[📲 Twilio API SMS Alert]
+    C -->|Sustained Gesture| D[Emergency SOS Module]
+    D --> E[Fetch Geolocation]
+    E --> F[Twilio API SMS Alert]
     
-    C -->|Navigation Gesture| G[🖱️ Virtual Mouse Control]
+    C -->|Navigation Gesture| G[Virtual Mouse Control]
     G --> H[Cursor Movement & Clicks]
     
-    C -->|Educational Mode| I[🎮 Gamified Learning]
+    C -->|Educational Mode| I[Gamified Learning]
     I --> J[Interactive ASL Feedback]
 ```
 
 ---
 
-## ⚙️ **Tech Stack**
+## **Tech Stack**
 - **Core Language**: Python  
 - **Computer Vision**: Mediapipe, OpenCV  
 - **Communication APIs**: Twilio API  
@@ -63,30 +63,41 @@ graph TD
 
 ---
 
-## 🌍 **Impact**
-- 🚑 Enables hands‑free emergency response in critical, life-threatening situations.
-- ♿ Provides vital assistive technology and control for differently‑abled users.
-- 🎓 Enhances learning and accessibility through a gamified gesture recognition journey.
+## **Impact**
+- Enables hands‑free emergency response in critical, life-threatening situations.
+- Provides vital assistive technology and control for differently‑abled users.
+- Enhances learning and accessibility through a gamified gesture recognition journey.
 
 ---
 
-## 📂 **Source Code**
+## **Achievements & Recognition**
 
-📥 **[Download Source Code (ZIP) via Google Drive](https://drive.google.com/file/d/1InNBP2LUyAILm9k9iiz5uvlqZk4ZTF8k/view?usp=sharing)**  
+**SignVise** has been represented on prestigious national stages delivering its innovation and impact:
 
----
+- **NATIONAL TECH EXPO 2026** – *Parul University, Vadodara, Gujarat, India*
+- **CYBRATHON 2025** – *Suresh Gyan Vihar University, Jaipur, Rajasthan, India*
 
-## 🎬 **Demonstration Video**
-📥 **[Download Demo Video](https://github.com/whisperinbinary/SignVise/raw/refs/heads/master/demo/Project%20SignVise%20Demo%20Video.mp4)**
-
----
-
-## 💼 **LinkedIn Post**
-🔗 **[View LinkedIn Update](https://www.linkedin.com/feed/update/urn:li:activity:7428827759898140672/)**
+These milestones fuel the passion to keep building technology that makes a real difference!
 
 ---
 
-## 👥 **Contributors**
+## **Source Code**
+
+**[Download Source Code (ZIP) via Google Drive](https://drive.google.com/file/d/1InNBP2LUyAILm9k9iiz5uvlqZk4ZTF8k/view?usp=sharing)**  
+
+---
+
+## **Demonstration Video**
+**[Download Demo Video](https://github.com/whisperinbinary/SignVise/raw/refs/heads/master/demo/Project%20SignVise%20Demo%20Video.mp4)**
+
+---
+
+## **LinkedIn Post**
+**[View LinkedIn Update](https://www.linkedin.com/feed/update/urn:li:activity:7428827759898140672/)**
+
+---
+
+## **Contributors**
 
 | Name | Role | Socials |
 |------|------|---------|
@@ -97,7 +108,7 @@ graph TD
 
 ---
 
-## 📷 **Project Visuals**
+## **Project Visuals**
 
 <p align="center">
   <img src="docs/demo%203.jpeg" width="250" style="margin: 10px; border-radius: 10px;"/>
